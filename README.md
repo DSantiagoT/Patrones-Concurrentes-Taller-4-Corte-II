@@ -5,8 +5,15 @@ gunda utiliza un ThreadPoolExecutor para gestionar la concurrencia de manera aut
 En este documento analizo el flujo de trabajo, el rendimiento y la eficiencia de ambas ver-
 siones, y reflexiono sobre la modularidad y escalabilidad del diseño.
 
-#Ejecucion:
-el taller4_concurrencia es la version de hilos tradicionales
-python -m taller4_concurrencia  
-el taller4_concurrencia2 es la version con ThreadPoolExecutor
-python -m taller4_concurrencia2 
+# Ejecución
+
+## Versión con hilos tradicionales
+El script `taller4_concurrencia` es la versión de hilos tradicionales:
+
+python -m taller4_concurrencia
+
+## Versión con hilos tradicionales
+El script `taller4_concurrencia` corresponde a la versión de hilos tradicionales:
+
+
+python -m taller4_concurrencia
