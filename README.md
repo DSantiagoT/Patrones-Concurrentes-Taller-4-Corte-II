@@ -6,5 +6,7 @@ En este documento analizo el flujo de trabajo, el rendimiento y la eficiencia de
 siones, y reflexiono sobre la modularidad y escalabilidad del diseño.
 
 #Ejecucion:
+el taller4_concurrencia es la version de hilos tradicionales
 python -m taller4_concurrencia  
+el taller4_concurrencia2 es la version con ThreadPoolExecutor
 python -m taller4_concurrencia2 
